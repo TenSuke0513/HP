@@ -1,0 +1,90 @@
+h5,
+h6 {
+    text-align: center;
+}
+
+.first_message h4 {
+    font-size: 18px;
+    line-height: 1em;
+}
+
+.first_message h5 {
+    font-size: 12px;
+}
+
+.first_message p {
+    margin-top: 30px;
+}
+
+form {
+    margin-top: 150px;
+    width: 60%;
+    margin-left: 20%;
+}
+
+.line {
+    width: 29%;
+    margin-top: 35px;
+    line-height: 35px;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.item {
+    height: 35px;
+    margin-top: 35px;
+    border-radius: 5px;
+    width: 70%;
+    background-color: white;
+}
+
+.item:last-of-type {
+    height: auto;
+}
+
+.check {
+    margin-top: 30px;
+}
+
+.toContact {
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+
+.recruit_button {
+    margin-top: 60px;
+    width: 80%;
+    margin-left: 10%;
+    background-color: white;
+    padding: 30px 0 60px 0;
+}
+
+.recruit_button h4 {
+    text-align: center;
+    font-size: 24px;
+}
+
+.job {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.job p {
+    background-color: #292929;
+    color: white;
+    padding: 5px 3.125vw;
+    font-size: 15px;
+    line-height: 50px;
+}
+
+footer {
+    margin-top: 120px;
+    color: white;
+    background-color: black;
+}
+
+.toContact {
+    margin-top: 75px;
+}
